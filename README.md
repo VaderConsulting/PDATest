@@ -17,6 +17,10 @@ This is a Visual Studio 2008 VB.NET Windows Mobile 6 Professional (Pocket PC) Wi
 
 Open `PDATest.sln` in Visual Studio 2008 with Windows Mobile 6 Professional SDK.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `PDATest`). Assembly copyright 2008.
