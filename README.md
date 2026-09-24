@@ -1,6 +1,6 @@
 # PDATest
 
-This is a Visual Studio 2008 VB.NET Windows Mobile 6 Professional (Pocket PC) WinForms app. On load it fills a Bluetooth RFCOMM `PORTEMUPortParams` structure (channel, MTU, auth/encrypt flags) using Microsoft.WindowsMobile.Telephony. It is Dave Robinson's working copy from Historical Dev, an early PDA Bluetooth experiment.
+This is a Visual Studio 2008 VB.NET Windows Mobile 6 Professional (Pocket PC) WinForms app. On load it fills a Bluetooth RFCOMM `PORTEMUPortParams` structure (channel, MTU, auth/encrypt flags) using Microsoft.WindowsMobile.Telephony. It is my working copy from Historical Dev, an early PDA Bluetooth experiment.
 
 **Source last updated:** 2008-06-21  
 **Language:** VB.NET  
